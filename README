@@ -1,0 +1,7 @@
+To run any task use following command:
+
+python Task(num).py where "num" is task number.
+
+reading.py represents the file for taking input which are internally called by tasks
+
+Results folder contains all the photos which are also provided in the final report.
